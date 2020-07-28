@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I am using Zachary McKenna Project as a base. https://github.com/zackmckenna/tutorial-27
+
+We want to add a tensor flow model to this project so we can determine the mood of the person in the stream. 
+
 ## Available Scripts
 
 In the project directory, you can run:
