@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/camera-api/static/css/main.a0b33bfa.chunk.css",
-    "main.js": "/camera-api/static/js/main.5f8ea4ed.chunk.js",
-    "main.js.map": "/camera-api/static/js/main.5f8ea4ed.chunk.js.map",
+    "main.js": "/camera-api/static/js/main.4f699a63.chunk.js",
+    "main.js.map": "/camera-api/static/js/main.4f699a63.chunk.js.map",
     "runtime-main.js": "/camera-api/static/js/runtime-main.25d0718f.js",
     "runtime-main.js.map": "/camera-api/static/js/runtime-main.25d0718f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/camera-api/static/css/2.af3c1da9.chunk.css",
     "static/js/2.7cefd6a0.chunk.js": "/camera-api/static/js/2.7cefd6a0.chunk.js",
     "static/js/2.7cefd6a0.chunk.js.map": "/camera-api/static/js/2.7cefd6a0.chunk.js.map",
     "index.html": "/camera-api/index.html",
-    "precache-manifest.d76fe2cdd8a9608e6f6da19b41bd4111.js": "/camera-api/precache-manifest.d76fe2cdd8a9608e6f6da19b41bd4111.js",
+    "precache-manifest.ffabbdfbe79989c2f8d0b8995e61807e.js": "/camera-api/precache-manifest.ffabbdfbe79989c2f8d0b8995e61807e.js",
     "service-worker.js": "/camera-api/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/camera-api/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.a0b33bfa.chunk.css.map": "/camera-api/static/css/main.a0b33bfa.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.7cefd6a0.chunk.js",
     "static/css/main.a0b33bfa.chunk.css",
-    "static/js/main.5f8ea4ed.chunk.js"
+    "static/js/main.4f699a63.chunk.js"
   ]
 }
