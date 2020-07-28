@@ -19,7 +19,7 @@ const MintNav = () => {
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
-    <Nav.Link target="_blank" rel="noopener noreferrer" href="https://github.com/skohltfarber/usingCamera">Repo</Nav.Link>
+    <Nav.Link target="_blank" rel="noopener noreferrer" href="https://github.com/skohltfarber/camera-api">Repo</Nav.Link>
     </Nav>
     </Navbar.Collapse>
   </Navbar>
