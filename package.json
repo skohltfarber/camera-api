@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "mintbean": {
+  "githubpages": {
     "template": "react-gh-pages",
     "homepage": "https://skohltfarber.github.io/camera-api/",
     "scripts": {
