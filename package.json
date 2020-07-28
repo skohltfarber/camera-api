@@ -2,8 +2,24 @@
   "name": "camera-api",
   "description": "Project created when as part of Mintbean Hacker Day.",
   "version": "0.1.0",
-  "homepage": "https://skohltfarber.github.io/camera-api",
+  "homepage": "https://skohltfarber.github.io/camera-api/",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "mintbean": {
+    "template": "react-gh-pages",
+    "homepage": "https://skohltfarber.github.io/camera-api/",
+    "scripts": {
+      "deploy": "npm run deploy",
+      "develop": "npm run start"
+    }
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -20,14 +36,6 @@
   "devDependencies": {
     "eslint-plugin-react": "^7.20.3",
     "gh-pages": "^3.1.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
